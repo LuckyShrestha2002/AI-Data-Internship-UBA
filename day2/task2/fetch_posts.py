@@ -13,7 +13,7 @@ response = requests.get(url)
 if response.status_code == 200:
     print(f" Success! Status Code: {response.status_code}")
     posts = response.json()
-    print(f"📦 Total posts fetched: {len(posts)}")
+    print(f" Total posts fetched: {len(posts)}")
 else:
     print(f" Failed! Status Code: {response.status_code}")
     exit()
