@@ -1,0 +1,42 @@
+═════════════════════════════════════════════════════════════════
+  ASIAN COUNTRIES — FULL PIPELINE REPORT
+  Generated  : 2026-04-30 13:21:52
+  Source     : REST Countries API
+  Total rows : 50 countries
+═════════════════════════════════════════════════════════════════
+
+── Top 10 Most Populous ────────────────────────────────────
+
+  India                           Southern Asia           1,417,492,000
+  China                           Eastern Asia            1,408,280,000
+  Indonesia                       South-Eastern Asia       284,438,782
+  Pakistan                        Southern Asia            241,499,431
+  Bangladesh                      Southern Asia            169,828,911
+  Japan                           Eastern Asia             123,210,000
+  Philippines                     South-Eastern Asia       114,123,600
+  Vietnam                         South-Eastern Asia       101,343,800
+  Iran                            Southern Asia             85,961,000
+  Turkey                          Western Asia              85,664,944
+
+── Subregion Summary ───────────────────────────────────────
+
+  Southern Asia                9 countries  Avg pop: 223,511,059  Avg area:  753,649 km²
+  Eastern Asia                 8 countries  Avg pop: 205,459,394  Avg area: 1,488,385 km²
+  South-Eastern Asia          11 countries  Avg pop: 62,226,905  Avg area:  412,529 km²
+  Western Asia                17 countries  Avg pop: 17,755,083  Avg area:  283,646 km²
+  Central Asia                 5 countries  Avg pop: 16,624,981  Avg area:  800,690 km²
+
+── Population > 100M ───────────────────────────────────────
+
+  India                      Capital: New Delhi             Pop: 1,417,492,000
+  China                      Capital: Beijing               Pop: 1,408,280,000
+  Indonesia                  Capital: Jakarta               Pop:  284,438,782
+  Pakistan                   Capital: Islamabad             Pop:  241,499,431
+  Bangladesh                 Capital: Dhaka                 Pop:  169,828,911
+  Japan                      Capital: Tokyo                 Pop:  123,210,000
+  Philippines                Capital: Manila                Pop:  114,123,600
+  Vietnam                    Capital: Hanoi                 Pop:  101,343,800
+
+═════════════════════════════════════════════════════════════════
+  End of report
+═════════════════════════════════════════════════════════════════
