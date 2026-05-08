@@ -1,18 +1,16 @@
-# Environment variables — never commit API keys
+# Environment Variables (Security)
 .env
+**/.env
 
-# Python virtual environment
+# Virtual Environment (Efficiency)
 venv/
 env/
-.venv/
+bin/
+lib/
 
-# Byte-compiled files
+# Python Cache
 __pycache__/
 *.py[cod]
 
-# Data directory (optional — remove this line if you want to track CSV files)
-# data/
-
-# OS-generated files
+# OS Specific
 .DS_Store
-Thumbs.db
