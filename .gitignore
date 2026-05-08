@@ -1,1 +1,16 @@
+# Environment Variables (Security)
+.env
+**/.env
+
+# Virtual Environment (Efficiency)
+venv/
+env/
+bin/
+lib/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# OS Specific
 .DS_Store
