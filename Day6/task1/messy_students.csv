@@ -1,0 +1,16 @@
+name,score,age
+Alice,88,20
+ALICE,88,20
+ Alice , ,20
+bob,75,21
+Bob,75,21
+Charlie,92,22
+charlie, ,22
+David,str,23
+David,45,23
+Eve,105,24
+Frank,-10,25
+Grace,85,999
+Grace,85,22
+,70,21
+Hannah,95,22
