@@ -1,0 +1,12 @@
+name,score,age,grade,passed,score_category,rank
+Hannah,95.0,22,A,True,High,1
+Charlie,92.0,22,A,True,High,2
+Alice,88.0,20,B,True,High,3
+Alice,88.0,20,B,True,High,3
+Grace,85.0,22,B,True,High,5
+Bob,75.0,21,B,True,Medium,6
+Bob,75.0,21,B,True,Medium,6
+Alice,74.81818181818181,20,C,True,Medium,8
+Charlie,74.81818181818181,22,C,True,Medium,8
+David,74.81818181818181,23,C,True,Medium,8
+David,45.0,23,F,False,Low,11
