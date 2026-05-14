@@ -1,0 +1,5 @@
+Metric,Before,After
+Total Rows,102.0,100.0
+Null Values,2.0,0.0
+Duplicate Rows,2.0,0.0
+Average Word Count,23.81188118811881,23.56
