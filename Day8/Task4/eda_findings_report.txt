@@ -1,0 +1,13 @@
+========================================================================
+EXPLORATORY DATA ANALYSIS CAPSTONE REPORT - BITCOIN HISTORICAL METRICS
+========================================================================
+[1] Operational Scope: Tracked 31 unique observation cycles.
+[2] Completeness Check: Found 0 null values.
+[3] Central Tendency Check: Mean closing valuation calculated at $78460.42.
+[4] Median Position Check: Median closing value tracked at $78260.62.
+[5] Distribution Skewness: Tight distance between mean and median maps out stable features.
+[6] Boundary Range Check: Prices ranged from a low of $73856.06 up to $82145.66.
+[7] Dispersion Parameter: Price standard deviation shows a clean spread.
+[8] Group Segmentation: Partitions days evenly between High-Volume and Low-Volume buckets.
+[9] Inter-Feature Mapping: Heatmaps show a notable link between trading volume and price shifts.
+[10] Outlier Identification: Boxplots reveal minor volume spikes.
